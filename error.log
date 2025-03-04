@@ -1,0 +1,6 @@
+
+> desktop-image-editor@1.0.0 start
+> electron .
+
+[0304/165559.263784:FATAL:electron_main_delegate.cc(294)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/project/sandbox/user-workspace/node_modules/electron/dist/electron exited with signal SIGTRAP
